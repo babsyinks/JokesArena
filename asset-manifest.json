@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/JokesArena/static/css/main.e11a11df.chunk.css",
-    "main.js": "/JokesArena/static/js/main.cc8fa46f.chunk.js",
-    "main.js.map": "/JokesArena/static/js/main.cc8fa46f.chunk.js.map",
+    "main.js": "/JokesArena/static/js/main.f80fb59a.chunk.js",
+    "main.js.map": "/JokesArena/static/js/main.f80fb59a.chunk.js.map",
     "runtime-main.js": "/JokesArena/static/js/runtime-main.1ecc780f.js",
     "runtime-main.js.map": "/JokesArena/static/js/runtime-main.1ecc780f.js.map",
-    "static/js/2.20a09077.chunk.js": "/JokesArena/static/js/2.20a09077.chunk.js",
-    "static/js/2.20a09077.chunk.js.map": "/JokesArena/static/js/2.20a09077.chunk.js.map",
+    "static/js/2.27da2d27.chunk.js": "/JokesArena/static/js/2.27da2d27.chunk.js",
+    "static/js/2.27da2d27.chunk.js.map": "/JokesArena/static/js/2.27da2d27.chunk.js.map",
     "index.html": "/JokesArena/index.html",
-    "precache-manifest.dc91d2ace0d6ed11a88a41f0f9aea8d9.js": "/JokesArena/precache-manifest.dc91d2ace0d6ed11a88a41f0f9aea8d9.js",
+    "precache-manifest.c1d64022cdaa3b6641f5b88ec92bc266.js": "/JokesArena/precache-manifest.c1d64022cdaa3b6641f5b88ec92bc266.js",
     "service-worker.js": "/JokesArena/service-worker.js",
     "static/css/main.e11a11df.chunk.css.map": "/JokesArena/static/css/main.e11a11df.chunk.css.map",
-    "static/js/2.20a09077.chunk.js.LICENSE.txt": "/JokesArena/static/js/2.20a09077.chunk.js.LICENSE.txt"
+    "static/js/2.27da2d27.chunk.js.LICENSE.txt": "/JokesArena/static/js/2.27da2d27.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1ecc780f.js",
-    "static/js/2.20a09077.chunk.js",
+    "static/js/2.27da2d27.chunk.js",
     "static/css/main.e11a11df.chunk.css",
-    "static/js/main.cc8fa46f.chunk.js"
+    "static/js/main.f80fb59a.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b6cae2f8df71d9f0d17f25087b7cf083",
+    "revision": "65bda4386b5cbc68ea5235e41c1c1186",
     "url": "/JokesArena/index.html"
   },
   {
-    "revision": "edf6216cb4bdebd74fda",
+    "revision": "2cf29099d847451c5098",
     "url": "/JokesArena/static/css/main.e11a11df.chunk.css"
   },
   {
-    "revision": "559107fdb2b6a7309a3d",
-    "url": "/JokesArena/static/js/2.20a09077.chunk.js"
+    "revision": "8b273be9978eb6257098",
+    "url": "/JokesArena/static/js/2.27da2d27.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/JokesArena/static/js/2.20a09077.chunk.js.LICENSE.txt"
+    "url": "/JokesArena/static/js/2.27da2d27.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edf6216cb4bdebd74fda",
-    "url": "/JokesArena/static/js/main.cc8fa46f.chunk.js"
+    "revision": "2cf29099d847451c5098",
+    "url": "/JokesArena/static/js/main.f80fb59a.chunk.js"
   },
   {
     "revision": "13fc44ef06d937590c3a",
